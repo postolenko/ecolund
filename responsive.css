@@ -436,6 +436,7 @@ h2 {
 .main_nav li a {
     font-size: 17px;
     line-height: 17px;
+    font-weight: 600;
 }
 
 /*-- /Header --*/
