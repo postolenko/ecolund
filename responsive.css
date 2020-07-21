@@ -397,7 +397,6 @@ h2 {
 
 .header_row .left {
     position: relative;
-    /*z-index: 14;*/
 }
 
 .header_row .right {
@@ -467,6 +466,15 @@ h2 {
 }
 
 /*-- /Section 2 - Main Page --*/
+
+/*-- Section 4 - Main Page --*/
+
+.map_title h2 {
+    font-size: 27px;
+    line-height: 35px;
+}
+
+/*-- .Section 4 - Main Page --*/
 
 }
 
@@ -601,6 +609,15 @@ h2 {
 	    font-size: 29px;
 	    line-height: 40px;
 	}
+
+	/*-- Section 4 - Main Page --*/
+
+	.map_title h2 {
+	    font-size: 19px;
+	    line-height: 29px;
+	}
+
+	/*-- .Section 4 - Main Page --*/
 
 	/*-- Section 8 - Main Page --*/
 
