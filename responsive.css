@@ -617,6 +617,11 @@ h2 {
 	    line-height: 29px;
 	}
 
+	#map {
+	    height: 450px;
+	    margin-top: 40px;
+	}
+
 	/*-- .Section 4 - Main Page --*/
 
 	/*-- Section 8 - Main Page --*/
